@@ -10,4 +10,5 @@ https://github.com/gscholer/MATLAB_UR5e_RTDE/blob/c09ecbf85a06304bd64145009e7302
 the unit of first three values of `target` parameter are `mm`:
 https://github.com/gscholer/MATLAB_UR5e_RTDE/blob/c09ecbf85a06304bd64145009e730208e881e6f4/rtde/rtde.m#L149-L153
 
-https://github.com/gscholer/MATLAB_UR5e_RTDE/blob/c09ecbf85a06304bd64145009e730208e881e6f4/examples/example_8_letters.m#L46-L50
+`target` is `[x,y,z,r,p,y]`
+https://github.com/gscholer/MATLAB_UR5e_RTDE/blob/27811a605cda19ef8a1508325a33998ce270f3e5/examples/example_0_Basic_Usage_1.m#L17-L30
